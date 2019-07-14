@@ -1,0 +1,4 @@
+
+public enum ENUM_CELDA {
+	CASILLA, MURO //PUERTA, ESCALERA
+}
